@@ -25,7 +25,7 @@ export const Navbar = () => {
         <NextLink href="/" passHref>
             <Link>
                 <Text css={{textGradient: "45deg, $purple500 -20%, $pink500 100%"}} h2>P</Text>
-                <Text css={{textGradient: "45deg, $purple500 -20%, $pink500 100%"}} h3>okémon</Text>
+                <Text css={{textGradient: "45deg, $purple500 -20%, $pink500 100%"}} h3>okémon!</Text>
             </Link>
         </NextLink>
 
