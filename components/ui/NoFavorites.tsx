@@ -12,7 +12,7 @@ export const NoFavorites = () => {
         }}>
             <Text css={{textGradient: "45deg, $purple500 -20%, $pink500 100%"}} h1>No hay favoritos</Text>
             <Image 
-                src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/54.svg'
+                src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/152.svg'
                 width={ 250 }
                 height={ 250 }
                 css={{
